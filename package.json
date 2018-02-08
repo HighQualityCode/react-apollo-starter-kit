@@ -2,7 +2,6 @@
   "name": "react-apollo-starter-kit",
   "description": "Scaphold.io's Starter Kit React and Apollo",
   "repository": "scaphold-io/react-apollo-starter-kit",
-  "version": "0.1.0",
   "scripts": {
     "start": "babel-node ./src/server.js",
     "start:prod": "NODE_ENV=production node ./lib/server.js",
